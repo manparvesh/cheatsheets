@@ -1,8 +1,11 @@
 ---
 title: Travis.yml
 category: Devops
+layout: 2017/sheet
 ---
 
+## Intro    
+## Language-specific examples
 ### Node
 
 ```yml
@@ -31,7 +34,9 @@ rvm:
 * Defaults install to `bundle install`
 * Defaults test to `rake`
 
-### Build lifecycle
+## Build 
+
+### Lifecycle
 
 * `before_install`
 * `install`
